@@ -2,18 +2,18 @@
 
 I am a Full Stack Developer student at [CodeSpace Academy](https://www.codespace.co.za/). My fast-growing list of skills and experience includes:
 
-•	HTML
-•	CSS
-•	JavaScript
-•	Vue.js
-•	APIs (basic)
-•	Bootstrap
-•	GitHub / Git / Version control systems
-•	Responsive Designs
+:heavy_check_mark:	HTML
+:heavy_check_mark:	CSS
+:heavy_check_mark:	JavaScript
+:heavy_check_mark:	Vue.js
+:heavy_check_mark:	APIs (basic)
+:heavy_check_mark:	Bootstrap
+:heavy_check_mark:	GitHub / Git / Version control systems
+:heavy_check_mark:	Responsive Designs
 
 I am currently doing Backend programming where I am learning PHP, MySQL, and APIs (in-depth).
 
-**I am open to working in the following roles**
+#### **I am open to working in the following roles**
 
 Junior Full-stack Developer · Junior Frontend Developer · Junior Web Developer · Internships
 
