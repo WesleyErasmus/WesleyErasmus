@@ -13,9 +13,11 @@ I am a Full Stack Developer student at [CodeSpace Academy](https://www.codespace
 
 I am currently doing Backend programming where I am learning PHP, MySQL, and APIs (in-depth).
 
-#### **I am open to working in the following roles**
+### **I am open to working in the following roles** :computer:
 
 Junior Full-stack Developer · Junior Frontend Developer · Junior Web Developer · Internships
+
+Thank you for viewing my GitHub profile. :handshake:
 
 
 <!--
