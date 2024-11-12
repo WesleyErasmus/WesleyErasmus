@@ -1,7 +1,7 @@
-:heavy_check_mark:	React.js
 :heavy_check_mark:	JavaScript
-:heavy_check_mark:	Vue.js
 :heavy_check_mark:	TypeScript
+:heavy_check_mark:	React.js
+:heavy_check_mark:	Vue.js
 :heavy_check_mark:	CSS
 :heavy_check_mark:	HTML
 :heavy_check_mark:	APIs
