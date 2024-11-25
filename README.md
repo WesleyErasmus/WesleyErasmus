@@ -6,7 +6,7 @@
 I'm a certified full-stack developer with a passion for front-end development and creating intuitive, user-friendly online experiences. 
 I love learning new front-end technologies and am highly driven to continuously advance my technical skills and personal growth.
 <br><br>
-I have a solid foundation in software development principles and hands-on experience in React.js, TypeScript, JavaScript, CSS, HTML, Tailwind CSS, GraphQL, Git version control systems, and creating responsive layouts. My knowledge of backend technologies gives me holistic understanding of web development and the integration between frontend and backend.
+I have a solid foundation in software development principles and hands-on experience in React.js, TypeScript, JavaScript, CSS, HTML, Tailwind CSS, GraphQL, Git version control systems, and creating responsive websites. My knowledge of backend technologies gives me holistic understanding of web development and the integration between frontend and backend.
 
 💻 I am open to work, seeking full-time Front-end development opportunities. 
 - Contact me on [LinkedIn](https://www.linkedin.com/in/wesley-erasmus-75a72a1ba/) or [Email](mailto:wesley.erasmus119@gmail.com).
